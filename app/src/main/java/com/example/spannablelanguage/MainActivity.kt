@@ -38,6 +38,9 @@ class MainActivity : AppCompatActivity() {
                 }
             }.create().show()
         }
+        binding.btnNext.setOnClickListener {
+            startActivity(Intent(this, SpannableActivity::class.java))
+        }
     }
     private fun intent() {
         startActivity(Intent(this, MainActivity::class.java))
