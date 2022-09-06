@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpannableLanguage</string>
+    <string name="set_lan">Set language</string>
+    <string name="we_are">We are android developers</string>
+    <string name="change_language">Change local language</string>
+    <string name="go">Go to next activity</string>
+</resources>
